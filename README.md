@@ -18,7 +18,7 @@
 
 - 📫 Como ponerse en contacto conmigo **lruizap2502@gmail.com**
 
-- ⚡ Sobre mi **Soy una persona seria y divertida que le encanta aprender cosas nuevas y que trabaja muy duro en aquello que le gusta**
+- ⚡ Sobre mi: **Soy una persona seria y divertida que le encanta aprender cosas nuevas y que trabaja muy duro en aquello que le gusta**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
