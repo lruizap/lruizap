@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia)
+- 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia)
 
-- 🌱 Actualmente estoy aprendiendo **Python, Flutter y React**
+- 🌱 Estoy aprendiendo **Python, Flutter y React**
 
 - 👨‍💻 Todos mis proyectos se encuentran en este github [https://github.com/lruizap](https://github.com/lruizap)
 
@@ -18,7 +18,7 @@
 
 - 📫 Como ponerse en contacto conmigo **lruizap2502@gmail.com**
 
-- ⚡ Sobre mi: **Soy una persona seria y divertida que le encanta aprender cosas nuevas y que trabaja muy duro en aquello que le gusta**
+- ⚡ Sobre mi: **Una persona seria y divertida que le encanta aprender cosas nuevas y que trabaja muy duro para que todo quede como le gusta**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
