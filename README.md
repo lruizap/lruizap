@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia)
+- 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia) y [CryptoPass](https://github.com/lruizap/CryptoPass)
 
 - 🌱 Estoy aprendiendo **Python, Flutter y React**
 
