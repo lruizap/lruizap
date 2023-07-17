@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola 👋, Soy lruizap</h1>
 <h3 align="center">Un apasionado desarrollador web que le encanta aprender tecnologías nuevas</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lruizap&label=Profile%20views&color=0e75b6&style=flat" alt="lruizap" /> </p>
 
