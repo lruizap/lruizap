@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 <h1 align="center">Hola 👋, Soy lruizap</h1>
 <h3 align="center">Un apasionado desarrollador web que le encanta aprender tecnologías nuevas</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
