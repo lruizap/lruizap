@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia) y [CryptoPass](https://github.com/lruizap/CryptoPass)
+- 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) y [ConserGPT](https://github.com/lruizap/ConserGPT)
 - 🌱 Estoy aprendiendo **Python, Flutter, Next.js y React**
 
 - 👨‍💻 Todos mis proyectos se encuentran en este github [https://github.com/lruizap](https://github.com/lruizap)
