@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) y [ConserGPT](https://github.com/lruizap/ConserGPT)
-- 🌱 Estoy aprendiendo **Python, Flutter, Next.js y React**
+- 🌱 Estoy aprendiendo **Python, Inteligencia Artifical, Next.js y React**
 
 - 👨‍💻 Todos mis proyectos se encuentran en este github [https://github.com/lruizap](https://github.com/lruizap)
 
-- 📚 Tengo conocimiento en varias tecnologías como **React, Django, C#, Python, JavaScript...**
+- 📚 Tengo conocimiento en varias tecnologías como **Python, NextJS, React, Django, C#, JavaScript...**
 
 - 📫 Como ponerse en contacto conmigo **lruizap2502@gmail.com**
 
