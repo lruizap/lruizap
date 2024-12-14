@@ -24,12 +24,12 @@
 
 - ⚡ About me: **A serious and fun person who loves to learn new things and works very hard to make everything the way she likes it**.
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
+<h3 align="center">Contact me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/lucas-ruiz-zapata-80280925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas ruiz zapata (https://www.linkedin.com/in/lucas-ruiz-zapata-80280925a/)" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
