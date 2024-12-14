@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy lruizap</h1>
+<h1 align="center">Hola 👋, soy lruizap</h1>
 <h3 align="center">Un apasionado desarrollador web que le encanta aprender tecnologías nuevas</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lruizap&show_icons=true&locale=en&layout=compact" alt="lruizap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lruizap&show_icons=true&locale=en" alt="lruizap" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lruizap&show_icons=true&locale=en" alt="lruizap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lruizap&" alt="lruizap" /></p>
