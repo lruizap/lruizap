@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lruizap&icon=1&color=3"/>
+  <img src="https://visitcount.itsvg.in/api?id=lruizap&icon=1&color=4"/>
 </div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
