@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lruizap&icon=1&color=13"  />
+  <img src="https://visitcount.itsvg.in/api?id=lruizap&icon=1&color="3"  />
 </div>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -114,7 +114,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-<div align="center">
+<div align="center" padding=>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lruizap&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lruizap&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lruizap&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  />
