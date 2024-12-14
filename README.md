@@ -1,23 +1,23 @@
-<h1 align="center">Hola 👋, soy lruizap</h1>
-<h3 align="center">Un apasionado desarrollador web que le encanta aprender tecnologías nuevas</h3>
+<h1 align="center">Hello 👋, I'm lruizap</h1>
+<h3 align="center">Passionate web developer who loves to learn new technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lruizap&label=Profile%20views&color=0e75b6&style=flat" alt="lruizap" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Estoy trabajando [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) y [ConserGPT](https://github.com/lruizap/ConserGPT)
-- 🌱 Estoy aprendiendo **Python, Inteligencia Artifical, Next.js y React**
+- 🔭 I am working on [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) and [ConserGPT](https://github.com/lruizap/ConserGPT)
+- 🌱 I am learning **Python, Artifical Intelligence, Next.js and React**.
+  
+- 👨‍💻 All my projects can be found in this github [https://github.com/lruizap](https://github.com/lruizap)
 
-- 👨‍💻 Todos mis proyectos se encuentran en este github [https://github.com/lruizap](https://github.com/lruizap)
+- 📚 I have knowledge in several technologies such as **Python, NextJS, React, Django, C#, JavaScript...**
 
-- 📚 Tengo conocimiento en varias tecnologías como **Python, NextJS, React, Django, C#, JavaScript...**
+- 📫 Contact me **lruizap2502@gmail.com**
 
-- 📫 Como ponerse en contacto conmigo **lruizap2502@gmail.com**
+- ⚡ About me: **A serious and fun person who loves to learn new things and works very hard to make everything the way she likes it**.
 
-- ⚡ Sobre mi: **Una persona seria y divertida que le encanta aprender cosas nuevas y que trabaja muy duro para que todo quede como le gusta**
-
-<h3 align="left">Contacta conmigo:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-ruiz-zapata-80280925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas ruiz zapata (https://www.linkedin.com/in/lucas-ruiz-zapata-80280925a/)" height="30" width="40" /></a>
 </p>
