@@ -114,12 +114,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-<div align="center" padding=>
+<br>
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lruizap&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lruizap&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lruizap&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="streak graph"  />
 </div>
 
-<div>
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=lruizap&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<br>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=lruizap&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
