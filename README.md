@@ -5,9 +5,9 @@
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q3dDAya3JrNjNrY294ZnN2ZTdzMjRqZmFldGR6c284ZnQyYzY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lruizap&label=Profile%20views&color=0e75b6&style=flat" alt="lruizap" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lruizap&label=Profile%20views&color=0e75b6&style=flat" alt="lruizap" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I am working on [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) and [ConserGPT](https://github.com/lruizap/ConserGPT)
 - 🌱 I am learning **Python, Artifical Intelligence, Next.js and React**.
