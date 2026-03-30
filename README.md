@@ -7,12 +7,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lruizap&icon=1&color=4"/>
-</div>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I am working on [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) and [ConserGPT](https://github.com/lruizap/ConserGPT)
 - 🌱 I am learning **Python, Artifical Intelligence, Next.js and React**.
   
