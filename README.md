@@ -1,117 +1,257 @@
-<h1 align="center">Hello 👋, I'm lruizap</h1>
-<h3 align="center">Passionate web developer who loves to learn new technologies</h3>
+<h1 align="center">Hi 👋, I'm Lucas Ruiz Zapata</h1>
 
-<div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q3dDAya3JrNjNrY294ZnN2ZTdzMjRqZmFldGR6c284ZnQyYzY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"  />
-</div>
+<h3 align="center">
+Software Developer · Python · AI & AI Agents · Automation
+</h3>
 
-<br>
-
-- 🔭 I am working on [Vitalia](https://github.com/lruizap/Vitalia), [CryptoPass](https://github.com/lruizap/CryptoPass) and [ConserGPT](https://github.com/lruizap/ConserGPT)
-- 🌱 I am learning **Python, Artifical Intelligence, Next.js and React**.
-  
-- 👨‍💻 All my projects can be found in this github [https://github.com/lruizap](https://github.com/lruizap)
-
-- 📚 I have knowledge in several technologies such as **Python, NextJS, React, Django, C#, JavaScript...**
-
-- 📫 Contact me **lruizap2502@gmail.com**
-
-- ⚡ About me: **A serious and fun person who loves to learn new things and works very hard to make everything the way she likes it**.
-
-<h3 align="center">Contact me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/lucas-ruiz-zapata-80280925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas ruiz zapata (https://www.linkedin.com/in/lucas-ruiz-zapata-80280925a/)" height="30" width="40" /></a>
+  Building real-world software products and exploring how Artificial Intelligence
+  can be integrated into useful, maintainable applications.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-ruiz-zapata-80280925a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Ruiz%20Zapata-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/lruizap">
+    <img src="https://img.shields.io/badge/GitHub-lruizap-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://investools.es">
+    <img src="https://img.shields.io/badge/InvesTools-Live%20Project-success?style=for-the-badge" />
+  </a>
+</p>
 
-<br>
+---
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lruizap&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 👨‍💻 About Me
+
+I'm a **Software Developer** focused on building practical applications, automation tools and AI-powered solutions.
+
+My main areas of interest are **Python, Artificial Intelligence, AI Agents, automation and software engineering**.
+
+Alongside my professional experience, I design, build and maintain my own software products, taking them from the initial idea and architecture to development, deployment and continuous improvement.
+
+I particularly enjoy working on projects where **software engineering, automation and AI** come together to solve real problems.
+
+- 💼 Software Developer at **APOrx**
+- 🚀 Creator & Developer of **InvesTools**
+- 🌐 Former Freelance Software Developer for **TaxiJerez24h.com**
+- 🤖 Focused on **Python, Artificial Intelligence and AI Agents**
+- ⚙️ Interested in **automation, backend development and software architecture**
+- 📚 Continuously learning about **AI Engineering, LLMs, agents and modern software development**
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 InvesTools
+
+**Financial tools and calculators platform**
+
+🌐 https://investools.es
+
+InvesTools is a financial platform I created and currently maintain, focused on providing accessible tools for financial analysis, simulation and education.
+
+The project involves much more than frontend development: product design, financial calculation logic, architecture, SEO, deployment, maintenance and continuous development of new tools.
+
+**Areas involved:**
+
+- Financial calculators and simulators
+- Frontend architecture
+- Financial calculation logic
+- Responsive UI/UX
+- Technical SEO
+- Structured data
+- Performance optimization
+- Deployment and production maintenance
+- AI-assisted development workflows
+- Continuous product development
+
+---
+
+### ⚙️ FileFlow
+
+**Local file automation tool built with Rust**
+
+FileFlow is a modular Windows automation application designed to perform and compose local file operations.
+
+The project explores systems programming and software architecture through a modular Rust workspace.
+
+**Features include:**
+
+- File copy and move operations
+- File synchronization
+- JSON-based automation pipelines
+- Modular action architecture
+- CLI
+- Automated testing
+- Recursive synchronization
+- File-system watchers
+
+**Tech:** Rust · Cargo · CLI · JSON · Testing · Software Architecture
+
+---
+
+### 🚕 TaxiJerez24h.com
+
+**Production website developed for a real client**
+
+🌐 https://taxijerez24h.com
+
+I worked as a **Freelance Software Developer** on the complete development and evolution of the TaxiJerez24h web platform.
+
+My responsibilities covered the project from requirements and implementation to deployment and maintenance.
+
+**Work included:**
+
+- End-to-end web development
+- Responsive design
+- Online booking functionality
+- Price calculation functionality
+- Technical SEO
+- Performance optimization
+- Production deployment
+- Maintenance and troubleshooting
+- Direct requirements management with the client
+
+---
+
+## 🤖 Current Focus
+
+I'm currently deepening my knowledge and building projects around:
+
+```text
+🐍 Python
+🤖 Artificial Intelligence
+🧠 LLM Applications
+🕵️ AI Agents
+⚙️ Automation
+🔌 APIs & Integrations
+🏗️ Software Architecture
+🧪 Testing & Maintainability
+
+I'm particularly interested in moving beyond simply using AI APIs and understanding how to build reliable AI-powered software systems and autonomous agent workflows.
+
+---
+
+🛠️ Tech Stack
+
+Main Focus
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+</p>Additional Experience
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38" title="Django"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38" title="Flask"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" title="Linux"/>
+</p>---
+
+💼 Experience
+
+Software Developer — APOrx
+
+May 2025 — Present
+
+Professional software development in the pharmaceutical robotics sector.
+
+Working with software solutions related to pharmacy automation and robotic systems while continuing to develop my skills in software engineering and application development.
+
+---
+
+Founder & Software Developer — InvesTools
+
+February 2026 — Present
+
+Creator and maintainer of a financial tools platform.
+
+Responsible for the evolution of the product across software development, architecture, UX, financial logic, SEO, deployment and maintenance.
+
+🌐 https://investools.es
+
+---
+
+Freelance Software Developer — TaxiJerez24h.com
+
+February 2025 — February 2026
+
+Designed, developed, deployed and maintained a production web platform for a real client.
+
+Worked directly with business requirements and translated them into production-ready software functionality.
+
+🌐 https://taxijerez24h.com
+
+---
+
+Renault
+
+October 2024 — May 2025
+
+Professional experience in an industrial environment, gaining experience working within structured technical processes and multidisciplinary teams.
+
+---
+
+🎯 What I'm Looking For
+
+I'm interested in opportunities where I can continue growing as a Software Developer while working with technologies such as:
+
+- Python
+- Artificial Intelligence
+- AI Agents
+- LLM-powered applications
+- Automation
+- Backend Development
+- APIs & integrations
+- .NET / C#
+- Modern software architectures
+
+I'm especially interested in teams building real software products where AI is used to solve practical problems.
+
+---
+
+📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lruizap&show_icons=true&hide_border=true" height="165" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lruizap&layout=compact&hide_border=true" height="165" />
+</p>---
+
+📫 Let's Connect
+
+I'm always open to connecting with developers, engineering teams and companies working on interesting software and AI projects.
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-ruiz-zapata-80280925a/
+- 🐙 GitHub: https://github.com/lruizap
+- 🌐 InvesTools: https://investools.es
+- 📧 Email: lruizap2502@gmail.com
+
+---
+
+<p align="center">
+  <i>Building software, learning continuously and turning ideas into real products.</i>
+</p>
+```
